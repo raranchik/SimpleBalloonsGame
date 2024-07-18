@@ -1,0 +1,17 @@
+{
+    "name": "Input.Base",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f78c71b673234887bfd5501d9c71746d",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

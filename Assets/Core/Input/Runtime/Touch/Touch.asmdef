@@ -1,0 +1,17 @@
+{
+    "name": "Touch",
+    "rootNamespace": "",
+    "references": [
+        "GUID:60a21eb8a238434b83bf1673600374ec",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

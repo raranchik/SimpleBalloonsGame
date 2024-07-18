@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273c5cb844ec4a238b7127dda19f4411, type: 3}
+  m_Name: ColoredBalloonPreset
+  m_EditorClassIdentifier: 
+  m_Id: colored
+  m_Speed: {x: 1, y: 2}
+  m_Score: 1
+  m_Colors:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0.039849162, g: 1, b: 0, a: 1}
+  - {r: 0, g: 0.2461958, b: 1, a: 1}
+  - {r: 1, g: 0.95686066, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0.98960686, a: 1}

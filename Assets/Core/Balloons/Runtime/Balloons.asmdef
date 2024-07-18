@@ -1,0 +1,23 @@
+{
+    "name": "Balloons",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:95e955a309a0446488613a96a71af6a7",
+        "GUID:3426ded31d5a4e2e999ed1ef903e7fee",
+        "GUID:f8b5226202f4470199dc209d9efa9f97",
+        "GUID:e014e9540e8947d48cd9bc492c373ab6",
+        "GUID:a025ac52f12d40549a173338ff9e8ae4",
+        "GUID:60a21eb8a238434b83bf1673600374ec",
+        "GUID:c7aa09897ef046d29e1618f9162439b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
